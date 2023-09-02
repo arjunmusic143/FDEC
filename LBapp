@@ -6,7 +6,7 @@ step 2
 create application load balancers 
 inside give name , after give all maping then secqurity group allow http and create 
 step 3 
-create traget group bcause we need tg for application load balancers 
+create traget group u can use sone instances bcause we need tg for application load balancers 
 in frist by defulty attech using tg1 
 step4
 create rules for diffret target group for connect single loadbalancers 
