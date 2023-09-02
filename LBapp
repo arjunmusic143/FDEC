@@ -1,0 +1,17 @@
+How to create Load Balancers 
+step1: 
+Create Instanceses like u want for ex 6 
+then u can upload their diffrent module 
+step 2
+create application load balancers 
+inside give name , after give all maping then secqurity group allow http and create 
+step 3 
+create traget group bcause we need tg for application load balancers 
+in frist by defulty attech using tg1 
+step4
+create rules for diffret target group for connect single loadbalancers 
+step5
+assine rule to load balancers 
+step 6 
+to check using DNS and is working and with file with using '/mobaile'
+if its not working to check any file,Target group or rule any issue u can check and resolve  
